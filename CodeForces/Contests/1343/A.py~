@@ -1,0 +1,14 @@
+'''
+
+                            Online Python Interpreter.
+                Code, Compile, Run and Debug python program online.
+Write your code in this editor and press "Run" button to execute it.
+
+'''
+
+T = int(input())
+
+while T > 0:
+    x = int(input())
+    print(int(x / 3))
+    T -= 1
