@@ -1,9 +1,10 @@
+/*
+Author: Dinesh Reddy Sandadi
+*/
 #include <bits/stdc++.h>
+#define ll long long
 
 using namespace std;
-
-vector<int> cnt, wt;
-vector<vector<pair<int, int>>> g;
 
 int main(){
 	#ifndef ONLINE_JUDGE
@@ -14,7 +15,6 @@ int main(){
 	cin.tie(0);
 	
 
-	cout << i << " " << j << endl;
 	#ifndef ONLINE_JUDGE
 		cout << "\nTime Elapsed: " << 1.0 * clock() / CLOCKS_PER_SEC << " sec\n";
 	#endif
