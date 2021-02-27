@@ -1,0 +1,3 @@
+"C:\Program Files (x86)\JetBrains\CLion 2016.3.1\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\SetUnion.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\SetUnion.dir/objects.a @CMakeFiles\SetUnion.dir\objects1.rsp
+C:\MinGW\bin\g++.exe  -g   -Wl,--whole-archive CMakeFiles\SetUnion.dir/objects.a -Wl,--no-whole-archive  -o SetUnion.exe -Wl,--out-implib,libSetUnion.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SetUnion.dir\linklibs.rsp

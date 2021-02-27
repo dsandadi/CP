@@ -1,0 +1,3 @@
+C:/Users/DINESH/ClionProjects/Kruskel's/cmake-build-debug/CMakeFiles/Kruskel_s.dir
+C:/Users/DINESH/ClionProjects/Kruskel's/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/DINESH/ClionProjects/Kruskel's/cmake-build-debug/CMakeFiles/rebuild_cache.dir

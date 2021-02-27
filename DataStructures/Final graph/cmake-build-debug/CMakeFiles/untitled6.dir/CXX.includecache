@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/DINESH/ClionProjects/untitled1/main.cpp
+algorithm
+-
+vector
+-
+iostream
+-
+string
+-
+set
+-
+map
+-
+queue
+-
+iostream
+-
+map
+-
+
